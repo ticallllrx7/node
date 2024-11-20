@@ -73,7 +73,7 @@
     └── openlayer_reg-win.exe
     ```
    1. **Enter Operator Address:** You will be prompted to enter the Ethereum address of the operator.
-   2. **Enter Operator Singer Address:** You will be prompted to enter the Ethereum address of the operator signer.
+   2. **Enter Operator Signer Address:** You will be prompted to enter the Ethereum address of the operator signer.
    3. **Enter Signed Message:** A text editor will open. Paste the signed message (including `salt`, `expiry`, and `signature`) into the editor. The message should be in valid JSON format, for example:
 
       JSON

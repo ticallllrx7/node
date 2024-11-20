@@ -151,7 +151,7 @@ Step 1: Send at least 0.1 ETH to the operator address. This ETH will be used to 
 
 Step 2: Make sure there's at least 0.1 ETH worth of stake delegated to your operator.
 
-## Start opeartor
+## Start operator
 
 ### 1. Register operator with Eigenlayer (If never registered with Eigenlayer before)
 ```
@@ -200,7 +200,7 @@ make holesky-update-bls-key-and-signer
 make mainnet-update-bls-key-and-signer
 ```
 
-## Upgrade opeartor
+## Upgrade operator
 Step 1: Stop the operator
 ```
 make holesky-stop-operator
